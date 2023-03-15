@@ -1,6 +1,6 @@
 # 05-HelloGitHub-MGA
 
-##### Hello guys, today I´ll write my 1st README. So well haha, this is interesting 
+
 
 # Titel:
 ### Einfuehrungsprojekt fuer GitHub
